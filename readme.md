@@ -1,17 +1,21 @@
-
 # Save Troop <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 🤓
+<html>
+  
+  <body>
+    
+ 
 <ul>
   <li>
-      <h3>Sou Gabriel tenho 21 anos, sou estudante de desenvolvimento de sistemas <a href="https://www.senaibahia.com.br/">Senai</a> .</h3> 
+      <h4>Sou Gabriel tenho 21 anos, sou estudante de desenvolvimento de sistemas <a href="https://www.senaibahia.com.br/">Senai</a> .</h4> 
   </li>
   <li>  
-      <h3>Formado no programa de formação Full-Stack <a href="https://recode.org.br/"> Recode Pro</a></h3>
+      <h4>Formado no programa de formação Full-Stack <a href="https://recode.org.br/"> Recode Pro </a></h4>
   </li>
   <li>  
-      <h3>Faço parte do <a href="https://www.oracle.com/br/education/oracle-next-education/" >#OracleNext Education<a/></h3>
+      <h4>Faço parte do <a href= "https://www.oracle.com/br/education/oracle-next-education/" > #OracleNext Education <a/></h4>
   </li>
   <li>
-    <h3>Stacks</h3>
+    <h4>Stacks</h4>
   </li>
 </ul>
 
@@ -26,3 +30,5 @@
     <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
  
 </div>
+</body>
+</html>
