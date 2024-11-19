@@ -6,16 +6,14 @@
  
 <ul>
   <li>
-      <h4>Sou Gabriel tenho 21 anos, sou estudante de desenvolvimento de sistemas <a href="https://www.senaibahia.com.br/">Senai</a> .</h4> 
+      <h4>Sou Gabriel tenho 22 anos, sou estudante de desenvolvimento de sistemas<a href="https://www.senaibahia.com.br/">Senai</a> , e também trabalho como programdor autônomo.</h4> 
+     <p>
+       Gosto de ler e aprender sobre história, teologia, filosofia e tecnologia. Abaixo estão as tecnologias do meu repertório.
+       🔨🫡
+     </p>
   </li>
-  <li>  
-      <h4>Formado no programa de formação Full-Stack <a href="https://recode.org.br/"> Recode Pro </a></h4>
-  </li>
-  <li>  
-      <h4>Faço parte do <a href= "https://www.oracle.com/br/education/oracle-next-education/" > #OracleNext Education <a/></h4>
-  </li>
-  <li>
-    <h4>Stacks</h4>
+    <li>
+     <P>Stacks</P>
   </li>
 </ul>
 
